@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: grid;
+    height: 100vh;
+    place-items: center;
+    background: linear-gradient(to right, #4c5255 0%, #656e69 100%);
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px 0 10px 0;
+    position: relative;
+    text-align: center;
+    color: #418aac;
+}
+
